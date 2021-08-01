@@ -1,6 +1,6 @@
 ### Hi i'm Pranaya :wave:
 
-I'm a self-taught React Developer who is experienced in building Web Applications and Mobile Applications using React and React-Native.  
+I'm a React Developer who is experienced in building Web Applications and Mobile Applications using React and React-Native.  
 
 I'm keen on working collaboratively. [Email me](mailto:pranarg.business@gmail.com) if you're interested in working together :handshake: 
 
