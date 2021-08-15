@@ -1,6 +1,6 @@
 ### Hi i'm Pranaya :wave:
 
-I'm a Front-End Developer with an expertise in React Framework and experienced building Single Web Applications for a hobby.
+I'm a Web Developer with an expertise in React Framework and experienced building Single Web Applications for a hobby.
 
 I'm keen on working collaboratively. [Email me](mailto:pranarg.business@gmail.com) if you're interested in working together :handshake: 
 
