@@ -9,6 +9,9 @@ I'm a Front End Developer working remote from Indonesia :indonesia:
 - :mag_right: Always keen on learning new technologies on my free time
 - :handshake: I love working collaboratively on projects
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,flutter,netlify,nextjs,mui)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,flutter,netlify,nextjs,mui)](https://skillicons.dev)
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrunesLand&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
