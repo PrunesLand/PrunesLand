@@ -4,7 +4,7 @@
 
 ## Hi i'm Pranaya :wave:
 
-I'm a Front End Developer working remote from Indonesia :indonesia:
+### I'm a Front End Developer working remote from Indonesia :indonesia:
 
 - :dart: I am currently employed as a Mobile Developer working with Flutter
 - :computer: I have experience creating SPA's using React
