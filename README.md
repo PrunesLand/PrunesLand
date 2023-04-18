@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://wallpapercave.com/wp/wp3071182.jpg" alt="tatooine" title="A cute kitten" width="60%"  /> 
+</p>
+
 ## Hi i'm Pranaya :wave:
 
 I'm a Front End Developer working remote from Indonesia :indonesia:
