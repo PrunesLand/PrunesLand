@@ -4,7 +4,7 @@
 
 ## Hi i'm Pranaya :wave:
 
-### I'm a Software Developer from Indonesia :indonesia:
+### I'm a Software Developer specializing in Front - End Development :computer:
 
 - :dart: I make IOS and Android applications with Flutter.
 - :package: I can deploy my projects with Netlify, Surge and Strapi.
