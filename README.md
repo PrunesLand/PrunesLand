@@ -9,9 +9,13 @@ I'm a developer who loves building mobile apps and a great user experience!
 ### 🚀 What I Do
 
 - 📱 **Flutter Development:** Architecting and building feature-rich applications using Flutter for both iOS and Android.
+  
 - 🌉 **Bridging the Native Gap:** I'm comfortable diving into Swift and Kotlin to ensure Flutter apps have the peak performance and deep device integration they need.
+  
 - ☁️ **From Code to Cloud:** I can deploy my projects with Netlify, Surge and Heroku.
+  
 - 🌱 **Growing into Full-Stack:** My current goal is to expand my skills to become a well-rounded full-stack developer, building complete end-to-end solutions.
+  
 - 🤝 **Better Together:** I thrive in collaborative environments, believing that the best products are built by teams that communicate and innovate together.
 
 ---
